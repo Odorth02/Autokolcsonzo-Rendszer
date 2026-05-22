@@ -1,0 +1,10 @@
+szemelyauto,ABC-123,Toyota Corolla,12000,5
+szemelyauto,XYZ-789,Suzuki Vitara,15000,5
+teherauto,DEF-456,Ford Transit,25000,3500
+szemelyauto,GHI-111,Opel Astra,11000,5
+szemelyauto,JKL-222,Volkswagen Golf,14000,5
+szemelyauto,MNO-333,Skoda Octavia,16000,5
+teherauto,PQR-444,Mercedes Sprinter,28000,4500
+teherauto,STU-555,Renault Master,24000,3300
+szemelyauto,ECTO-1,Cadillac Miller-Meteor,100000,4
+szemelyauto,OUTATIME,DeLorean DMC-12,500000,2
